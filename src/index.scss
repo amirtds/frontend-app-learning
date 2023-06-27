@@ -5,6 +5,13 @@
 
 @import "~@edx/frontend-component-footer/dist/footer";
 
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap');
+
+* {
+    font-family: 'Vazirmatn', sans-serif !important;
+}
+
+
 #root {
   display: flex;
   flex-direction: column;
